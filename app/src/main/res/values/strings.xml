@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlusMinusApp(FirstProject)</string>
+    <string name="number_text">Number:</string>
+    <string name="plus_btn_text">+1</string>
+    <string name="minus_btn_text">-1</string>
+    <string name="number"> </string>
+</resources>
